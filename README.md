@@ -14,6 +14,9 @@ This repository includes the data recolected by the Colombian team and the jupyt
   * Cristian Eduardo Hernández Cely (cristian.hernandez17@correo.uis.edu.co)
   * Steven Fernando Rico Aparicio (steven.rico@correo.uis.edu.co)
   * Cristian Rolando Carvajal Bohorquez (cristian.carvajal@correo.uis.edu.co)
+  
+  ### Special Collaborators:
+  * Jose Luis Salamanca Coy (jose.salamancacoy@gmail.com)
 
 ## Repository content:
 
